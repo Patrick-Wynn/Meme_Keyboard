@@ -3,6 +3,6 @@ Python Script that will play a vine or meme video related to the key that was pr
 
 
 # Libraries To Include
-Open cv2 
-fffpyplayer
-keyboard
+Open cv2;
+fffpyplayer;
+keyboard;
