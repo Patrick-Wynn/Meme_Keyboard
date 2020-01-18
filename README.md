@@ -1,5 +1,5 @@
 # Meme_Keyboard
-Python Script that will play a vine or meme video related to the key that was pressed. Put it on a friends computer and see the chaos that comes. For HackWPI best meme category. 
+Python Script that will play a vine or meme video related to the key that was pressed. Put it on a friends computer and see the chaos that comes. Put this on your friends computer to distract them from writting the essay they forgot to write. For HackWPI best meme category. 
 
 
 # Installation
