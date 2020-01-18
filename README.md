@@ -6,7 +6,7 @@ Python Script that will play a vine or meme video related to the key that was pr
 
 ```bash
 pip3 install opencv-python
-pip3 install fffpyplayer
+pip3 install ffpyplayer
 pip3 install keyboard
 ```
 # Usage
